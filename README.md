@@ -1,7 +1,27 @@
 # Satellite-video-object-tracking
-Satellite Video Object Tracking Overview
+## Satellite Video Object Tracking Overview
 
 #### HRSiam: High-Resolution Siamese Network, Towards Space-Borne Satellite Video Tracking [PDF](https://ieeexplore.ieee.org/document/9350236)
 #### Deep Learning-Based Object Tracking in Satellite Videos: A comprehensive survey with a new dataset [PDF](https://ieeexplore.ieee.org/document/9875020)
 #### Object Tracking in Satellite Videos Based on Convolutional Regression Network With Appearance and Motion Features [PDF](https://ieeexplore.ieee.org/document/8994098)
 #### Object Tracking on Satellite Videos: A Correlation Filter-Based Tracking Method With Trajectory Correction by Kalman Filter [PDF](https://ieeexplore.ieee.org/document/8809377)
+#### Detecting and Tracking Small and Dense Moving Objects in Satellite Videos: A Benchmark [PDF](https://arxiv.org/abs/2111.12960)
+#### MBLT: Learning Motion and Background for Vehicle Tracking in Satellite Videos [PDF](https://ieeexplore.ieee.org/abstract/document/9533178)
+#### Remote Sensing Object Tracking With Deep Reinforcement Learning Under Occlusion [PDF](https://ieeexplore.ieee.org/document/9492311)
+#### Single Object Tracking in Satellite Videos: Deep Siamese Network Incorporating an Interframe Difference Centroid Inertia Motion Model [PDF](https://www.mdpi.com/2072-4292/13/7/1298)
+#### Rotation adaptive correlation filter for moving object tracking in satellite videos [PDF](https://www.sciencedirect.com/science/article/pii/S0925231221000862)
+#### Remote sensing target tracking in satellite videos based on a variable-angle-adaptive Siamese network [PDF](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ipr2.12170)
+#### Object Tracking in Satellite Videos by Improved Correlation Filters With Motion Estimations [PDF](https://ieeexplore.ieee.org/document/8880656)
+#### Small Target Tracking in Satellite Videos Using Background Compensation [PDF](https://ieeexplore.ieee.org/document/9044613)
+#### Tracking Objects From Satellite Videos: A Velocity Feature Based Correlation Filter [PDF](https://ieeexplore.ieee.org/document/8736008)
+#### Can We Track Targets From Space? A Hybrid Kernel Correlation Filter Tracker for Satellite Video [PDF](https://ieeexplore.ieee.org/document/8789388)
+#### Object Tracking in Satellite Videos Based on a Multiframe Optical Flow Tracker [PDF](https://ieeexplore.ieee.org/document/8735957)
+#### Object Tracking in Satellite Videos by Fusing the Kernel Correlation Filter and the Three-Frame-Difference Algorithm [PDF](https://ieeexplore.ieee.org/document/8225723)
+#### Object Tracking Based on Satellite Videos: A Literature Review [PDF](https://www.mdpi.com/2072-4292/14/15/3674)
+#### Object Tracking in Satellite Videos Based on Improved Kernel Correlation Filter Assisted by Road Information [PDF](https://www.mdpi.com/2072-4292/14/17/4215)
+#### SatSOT: A Benchmark Dataset for Satellite Video Single Object Tracking [PDF](https://ieeexplore.ieee.org/document/9672083)
+#### Vehicle Tracking on Satellite Video Based on Historical Model [PDF](https://ieeexplore.ieee.org/abstract/document/9847077)
+#### SiamMDM: An Adaptive Fusion Network With Dynamic Template for Real-Time Satellite Video Single Object Tracking [PDF](https://ieeexplore.ieee.org/abstract/document/10113336)
+#### Object Tracking in Satellite Videos: A Spatial-Temporal Regularized Correlation Filter Tracking Method With Interacting Multiple Model [PDF](https://ieeexplore.ieee.org/abstract/document/9786761)
+#### Object Tracking in Satellite Videos: Correlation Particle Filter Tracking Method With Motion Estimation by Kalman Filter [PDF](https://ieeexplore.ieee.org/abstract/document/9875357)
+#### Object Tracking in Satellite Videos Based on Siamese Network With Multidimensional Information-Aware and Temporal Motion Compensation [PDF](https://ieeexplore.ieee.org/abstract/document/9908539)
